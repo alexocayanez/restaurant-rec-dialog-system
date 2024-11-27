@@ -1,0 +1,6 @@
+artifact_location: file:///D:/MAIR_Workspaces/MAIR/Scripts/mlruns/945094934251804297
+creation_time: 1696696184917
+experiment_id: '945094934251804297'
+last_update_time: 1696696184917
+lifecycle_stage: active
+name: classification_tree_random_search_cv

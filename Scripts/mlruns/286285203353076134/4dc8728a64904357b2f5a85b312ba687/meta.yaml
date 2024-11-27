@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MAIR_Workspaces/MAIR/Scripts/mlruns/286285203353076134/4dc8728a64904357b2f5a85b312ba687/artifacts
+end_time: 1696794564913
+entry_point_name: ''
+experiment_id: '286285203353076134'
+lifecycle_stage: active
+run_id: 4dc8728a64904357b2f5a85b312ba687
+run_name: 2023_10_08_21_49_21__training
+run_uuid: 4dc8728a64904357b2f5a85b312ba687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696794561381
+status: 3
+tags: []
+user_id: alexo

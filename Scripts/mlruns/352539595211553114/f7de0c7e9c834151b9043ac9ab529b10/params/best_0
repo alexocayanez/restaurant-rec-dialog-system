@@ -1,0 +1,7 @@
+0                               {'lr__penalty': None}
+0                               {'lr__penalty': None}
+0                               {'lr__penalty': None}
+0                               {'lr__penalty': None}
+0                               {'lr__penalty': None}
+0    {'lr__C': 72.4446978987753, 'lr__penalty': 'l2'}
+Name: params, dtype: object

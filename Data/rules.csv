@@ -1,0 +1,7 @@
+id,antedecent,consequent,t/f,description
+1,cheap AND good food,touristic,True,a cheap restaurant with good food attracts tourists
+2,romanian,touristic,False,Romanian cuisine is unknown for most tourists and they prefer familiar food
+3,busy,assigned seats,True,in a busy restaurant the waiter decides where you sit
+4,long stay,children,False,spending a long time is not advised when taking children
+5,busy,romantic,False,a busy restaurant is not romantic
+6,long stay,romantic,True,spending a long time in a restaurant is romantic

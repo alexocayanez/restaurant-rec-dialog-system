@@ -1,0 +1,7 @@
+artifact_location: file:///D:/MAIR_Workspaces/MAIR/Scripts/mlruns/694858581475869905
+creation_time: 1696678043062
+experiment_id: '694858581475869905'
+last_update_time: 1696688928828
+lifecycle_stage: deleted
+name: logistic_regression_grid_search_cv
+tags: {}

@@ -1,0 +1,6 @@
+artifact_location: file:///D:/MAIR_Workspaces/MAIR/Scripts/mlruns/525527139882296477
+creation_time: 1696795296797
+experiment_id: '525527139882296477'
+last_update_time: 1696795296797
+lifecycle_stage: active
+name: deduplicated_classification_tree_grid_search_cv

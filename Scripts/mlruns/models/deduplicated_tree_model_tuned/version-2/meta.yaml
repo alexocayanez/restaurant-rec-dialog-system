@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1696795309297
+current_stage: None
+description: null
+last_updated_timestamp: 1696795309297
+name: deduplicated_tree_model_tuned
+run_id: ff7efa4610dd4715b74427940595fe8a
+run_link: null
+source: file:///D:/MAIR_Workspaces/MAIR/Scripts/mlruns/525527139882296477/ff7efa4610dd4715b74427940595fe8a/artifacts/python_model
+status: READY
+status_message: null
+user_id: null
+version: 2

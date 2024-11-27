@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/MAIR_Workspaces/MAIR/Scripts/mlruns/694858581475869905/8a7f1c36a51c4054b0c7c87f150e3e81/artifacts
+deleted_time: 1696688928828
+end_time: 1696685736578
+entry_point_name: ''
+experiment_id: '694858581475869905'
+lifecycle_stage: deleted
+run_id: 8a7f1c36a51c4054b0c7c87f150e3e81
+run_name: 2023_10_07_15_35_10_random_search_cv
+run_uuid: 8a7f1c36a51c4054b0c7c87f150e3e81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696685710555
+status: 4
+tags: []
+user_id: alexo

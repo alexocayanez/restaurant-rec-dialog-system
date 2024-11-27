@@ -1,0 +1,19 @@
+artifact_path: python_model
+flavors:
+  python_function:
+    cloudpickle_version: 2.2.1
+    code: code
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.11.0
+mlflow_version: 2.7.1
+model_uuid: 536a24dd4d7e48bd9af51d601d889c28
+run_id: 56af737a4a42493d9c0509ad0c03166f
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+utc_time_created: '2023-10-08 20:39:16.258302'

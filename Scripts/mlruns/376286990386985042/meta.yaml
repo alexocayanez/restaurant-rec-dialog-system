@@ -1,0 +1,6 @@
+artifact_location: file:///D:/MAIR_Workspaces/MAIR/Scripts/mlruns/376286990386985042
+creation_time: 1696801348948
+experiment_id: '376286990386985042'
+last_update_time: 1696801348948
+lifecycle_stage: active
+name: deduplicated_logistic_regression_training

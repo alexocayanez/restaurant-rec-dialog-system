@@ -1,0 +1,7 @@
+{
+  "all_caps": true,
+  "text_to_speech": true,
+  "levenshtein_distance": 3,
+  "allow_restarts": false,
+  "model": "decisiontree"
+}

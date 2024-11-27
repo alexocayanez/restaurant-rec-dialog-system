@@ -1,0 +1,12 @@
+Statistical significance: 0.01 
+We will test statistical difference between mean accuracy for: 
+1) Group of models with lr__regularization == False 
+1) Group of models with lr__regularization == True 
+We have significant evidence that mean acuracy for Group 1 does not follow a normal distribution. (Kolmogorov-Smirnov test)
+We have significant evidence that mean acuracy for Group 2 does not follow a normal distribution. (Kolmogorov-Smirnov test)
+We have significant evidence that Groups 1 and 2 do not follow the same distribution. (Kolmogorov-Smirnov test)
+
+Let's test now the statistical differences between mean accuracies of groups.
+Our alteranative hypothesis will be that the mean accuracy for group A is greater than mean accuracy for group B.
+We will perform a Wilcoxon Test as samples don't follow normal distribution.
+We have significant evidence that mean accuracy for Group 1 is different than mean accuracy for Group 2.

@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1696797893582
+current_stage: None
+description: null
+last_updated_timestamp: 1696797893582
+name: tree_model
+run_id: be7b0a405f754d9883981535f48f9ff0
+run_link: null
+source: file:///D:/MAIR_Workspaces/MAIR/Scripts/mlruns/286285203353076134/be7b0a405f754d9883981535f48f9ff0/artifacts/python_model
+status: READY
+status_message: null
+user_id: null
+version: 3

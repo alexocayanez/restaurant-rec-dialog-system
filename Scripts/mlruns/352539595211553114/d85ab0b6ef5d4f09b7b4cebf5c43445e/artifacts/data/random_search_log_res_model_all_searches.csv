@@ -1,0 +1,2 @@
+,mean_fit_time,std_fit_time,mean_score_time,std_score_time,param_lr__penalty,params,split0_test_score,split1_test_score,split2_test_score,mean_test_score,std_test_score,rank_test_score
+0,2.7782253424326577,0.037301927578459876,0.030384143193562824,0.004812331539662202,,{'lr__penalty': None},0.9492041522491349,0.9519723183391003,0.9475432525951557,0.9495732410611303,0.0018268964127541745,1

@@ -1,0 +1,6 @@
+artifact_location: file:///D:/MAIR_Workspaces/MAIR/Scripts/mlruns/366779599206819263
+creation_time: 1696791323442
+experiment_id: '366779599206819263'
+last_update_time: 1696791323442
+lifecycle_stage: active
+name: deduplicated_logistic_regression_random_search_cv

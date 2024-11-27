@@ -1,0 +1,6 @@
+artifact_location: file:///D:/MAIR_Workspaces/MAIR/Scripts/mlruns/820678049708732957
+creation_time: 1696791940415
+experiment_id: '820678049708732957'
+last_update_time: 1696791940415
+lifecycle_stage: active
+name: deduplicated_classification_tree_training

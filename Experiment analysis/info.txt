@@ -1,0 +1,30 @@
+Q1: I would recommend this system to a friend
+Q2: The system's voice responses were unclear and hard to follow
+Q3: I would not use this system again
+Q4: The system's voice was clear and understandable
+Q5: I did not like the recommendation system
+Q6: I like the way the information is presented
+Q7: In case of using again the system, I would like it to have a different voice.
+Q8: I am overall satisfied with the system
+
+GROUP: 
+    A: Male voice, Male participant
+    B: Female voice, Male participant
+    C: Male voice, Female participant
+    D: Female voice, Female participant
+
+
+(negatively framed questions are inversed by subtracting value from 6)
+Overall satisfaction 
+Q1
+6 - Q3
+6 - Q5
+Q8
+
+Voice satisfaction
+6 - Q2
+Q4
+Q6
+6 - Q7
+
+

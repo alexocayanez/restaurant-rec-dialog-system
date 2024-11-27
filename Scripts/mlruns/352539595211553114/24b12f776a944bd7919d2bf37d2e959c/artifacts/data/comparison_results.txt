@@ -1,0 +1,12 @@
+Statistical significance: 0.01 
+We will test statistical difference between mean accuracy for: 
+1) Group of models with lr__regularization == False 
+1) Group of models with lr__regularization == True 
+We can accept the null hypothesis mean acuracy for that Group 1 follow a normal distribution. (Kolmogorov-Smirnov test)
+We can accept the null hypothesis that mean acuracy for Group 2 follow a normal distribution. (Kolmogorov-Smirnov test)
+We can accept the null hypothesis that mean acuracy for Groups 1 and 2 follow the same distribution. (Kolmogorov-Smirnov test)
+
+Let's test now the statistical differences between mean accuracies of groups.
+Our alteranative hypothesis will be that the mean accuracy for group 1 is greater than mean accuracy for group 2.
+We will perform a T Test as the samples seem to be normal.
+We can accept the null hypothesis that mean accuracies for both groups are equal.

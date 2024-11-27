@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1696787347371
+current_stage: None
+description: null
+last_updated_timestamp: 1696787347371
+name: deduplicated_sk_log_res_model_tuned
+run_id: 28cbe7d376e7416dbebf10d014e2f1d0
+run_link: null
+source: file:///D:/MAIR_Workspaces/MAIR/Scripts/mlruns/165934303363493856/28cbe7d376e7416dbebf10d014e2f1d0/artifacts/sk_model
+status: READY
+status_message: null
+user_id: null
+version: 1

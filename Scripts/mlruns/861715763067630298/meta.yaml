@@ -1,0 +1,6 @@
+artifact_location: file:///D:/MAIR_Workspaces/MAIR/Scripts/mlruns/861715763067630298
+creation_time: 1696795696062
+experiment_id: '861715763067630298'
+last_update_time: 1696795696062
+lifecycle_stage: active
+name: classification_tree_grid_search_cv

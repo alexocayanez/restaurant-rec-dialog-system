@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1696801350276
+current_stage: None
+description: null
+last_updated_timestamp: 1696801350276
+name: deduplicated_log_res_model
+run_id: 11db99222bf443ed864d2bcb73c88cd7
+run_link: null
+source: file:///D:/MAIR_Workspaces/MAIR/Scripts/mlruns/376286990386985042/11db99222bf443ed864d2bcb73c88cd7/artifacts/python_model
+status: READY
+status_message: null
+user_id: null
+version: 1

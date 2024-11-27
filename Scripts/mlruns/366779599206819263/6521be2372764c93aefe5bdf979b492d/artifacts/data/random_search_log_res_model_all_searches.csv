@@ -1,0 +1,2 @@
+,mean_fit_time,std_fit_time,mean_score_time,std_score_time,param_lr__solver,param_lr__penalty,param_lr__C,params,split0_test_score,split1_test_score,split2_test_score,mean_test_score,std_test_score,rank_test_score
+0,1.1364411513010662,0.033485637401822727,0.012779633204142252,0.004245342233335955,sag,,inf,"{'lr__solver': 'sag', 'lr__penalty': None, 'lr__C': inf}",0.8722002635046113,0.8669301712779973,0.8610013175230566,0.8667105841018884,0.004574586441809326,1
