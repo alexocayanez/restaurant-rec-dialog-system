@@ -1,7 +1,7 @@
 # MAIR Restaurant Recommendation Dialog System
 This project was done within the Methods for Artificial Intelligence Research course at Utrecht University. This project aims to build a restaurant recommender system that interacts with users conversationally. The system should understand user preferences and then use this information to recommend a suitable restaurant from its database
 
-Through this project, we explore key AI and NLP concepts such as dialog act classification, dialog management, and preference extraction. By combining rule-based methods with machine-learning techniques, the system delivers an engaging and intelligent user experience. The report explaining the implementation of the system can be found [here](https://github.com/alexocayanez/restaurant-rec-dialog-system/Reports/Part1_MAIR_project_report).
+Through this project, we explore key AI and NLP concepts such as dialog act classification, dialog management, and preference extraction. By combining rule-based methods with machine-learning techniques, the system delivers an engaging and intelligent user experience. The report explaining the implementation of the system can be found [here](https://github.com/alexocayanez/restaurant-rec-dialog-system/blob/main/Reports/Part1_MAIR_project_report.pdf).
 
 ## Installation
 1. Clone the repository with `git clone https://github.com/alexocayanez/restaurant-rec-dialog-system.git`.
